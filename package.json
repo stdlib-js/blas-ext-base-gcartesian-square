@@ -38,8 +38,8 @@
   },
   "dependencies": {
     "@stdlib/array-base-arraylike2object": "^0.2.2",
-    "@stdlib/blas-base-assert-is-layout": "^0.0.3",
     "@stdlib/blas-base-gcopy": "^0.2.3",
+    "@stdlib/blas-base-layout-resolve-str": "^0.0.3",
     "@stdlib/blas-ext-base-gfill": "^0.2.3",
     "@stdlib/math-base-special-fast-max": "^0.3.1",
     "@stdlib/ndarray-base-assert-is-column-major-string": "^0.1.1",

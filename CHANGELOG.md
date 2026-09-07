@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-17)
+## Unreleased (2026-09-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`0a4fd0d`](https://github.com/stdlib-js/stdlib/commit/0a4fd0d9d7b1c4ae02ae0e9220af9b6684e3bffa) - **refactor:** add support for enums in `blas/ext/base/*cartesian-square` [(#15066)](https://github.com/stdlib-js/stdlib/pull/15066) _(by Kaustubh Patange)_
 -   [`eed3993`](https://github.com/stdlib-js/stdlib/commit/eed3993cc5025fa69b40a2f36015b8c590e9b6b1) - **refactor:** align `blas/ext/base/gcartesian-square` JSDoc and accessor return with siblings [(#11988)](https://github.com/stdlib-js/stdlib/pull/11988) _(by Philipp Burckhardt)_
 -   [`0c3e5bd`](https://github.com/stdlib-js/stdlib/commit/0c3e5bd9e7be52a36fdddff2821fe66b840436ec) - **feat:** add `blas/ext/base/gcartesian-square` [(#11828)](https://github.com/stdlib-js/stdlib/pull/11828) _(by Muhammad Haris, Athan Reines)_
 
@@ -35,9 +36,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Kaustubh Patange
 -   Muhammad Haris
 -   Philipp Burckhardt
 
